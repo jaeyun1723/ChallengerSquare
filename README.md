@@ -27,7 +27,7 @@
 
 | <img src="https://github.com/alloy31.png" width="200" height="200"/> | <img src="https://github.com/DasolKang.png" width="200" height="200"/> | <img src="https://github.com/snowman2810.png" width="200" height="200"/> | <img src="https://github.com/jaeyun1723.png" width="200" height="200"/> | <img src="https://github.com/namhyemi.png" width="200" height="200"/> | <img src="https://github.com/CocoIsCat.png" width="200" height="200"/> |
 | --- | --- | --- | --- | --- | --- |
-| [안준현](https://github.com/alloy31) | [강다솔](https://github.com/DasollKang) | [강태연](https://github.com/snowman2810) | [김재윤](https://github.com/jaeyun1723) | [남혜미](https://github.com/namhyemi) | [이성목](https://github.com/CocoIsCat) |
+| [안준현](https://github.com/alloy31) | [강다솔](https://github.com/DasolKang) | [강태연](https://github.com/snowman2810) | [김재윤](https://github.com/jaeyun1723) | [남혜미](https://github.com/namhyemi) | [이성목](https://github.com/CocoIsCat) |
 | 팀장,<br> Block Chain | Backend | Backend, Infra | Frontend, Infra | Frontend | Block Chain |
 
 <br>
